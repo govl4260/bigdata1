@@ -5,7 +5,6 @@ public class MyUtil {
 	public int hap() {
 		int sum = 0;
 		for (int i=1;i<=10;i++) {
-			// 상문아 여기좀 수정해다오 물좀다오
 			sum+=i;
 		}
 		return sum;
